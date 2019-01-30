@@ -1,0 +1,2 @@
+# mercari_crawler_for_js
+ブラウザでメルカリのページを開き、Developer Toolなどでjs実行して使用する
