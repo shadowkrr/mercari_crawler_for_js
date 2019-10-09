@@ -1,2 +1,2 @@
-# mercari_crawler_for_js
-ブラウザでメルカリのページを開き、Developer Toolなどでjs実行して使用する
+# mercari_scraping_js_on_browser
+Open Mercari page in browser, run js with Developer Tool or extension Tamper Monkey etc.
